@@ -113,7 +113,7 @@ void merge(int start, int end, int destination) {
         ss << "chunk_" << start + i << ".txt";
         input[i].open(ss.str());
     }
-    cout << "Hello Khai";
+    // cout << "Hello";
     ofstream output;
     stringstream ss;
     ss << "chunk_" << destination << ".txt";
