@@ -6,4 +6,9 @@ Submit the source code and briefly describe how to compile and run the source co
 Notes: Please, don’t try to write complicated code to show that you are able to do advanced stuff.  
 • Consider using External Sort   
 • Try to care about bottle necks from IO  
-• Consider using Sorting Algorithms from standard libraries  
+• Consider using Sorting Algorithms from standard libraries 
+
+Usage: 
+g++ main.cpp -o main 
+./main input_file output_file memory_limit
+ 
